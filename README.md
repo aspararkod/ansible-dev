@@ -1,4 +1,4 @@
-Ansible Training for Storage Engineers
+Ansible Training for Engineers
 
 Goals:
 - Learn to write code
